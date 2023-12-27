@@ -19,15 +19,20 @@ Here are some ideas to get you started:
 | --- | --- | --- | --- | --- |
 | 2023-12-10 | 2026-12-10 | Scrum Foundation Professional Certification - SFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) | [link](https://www.credly.com/badges/bbae5d59-de84-472c-8873-4f71e271cd65/) |
 
-# Complete List of Courses
+# Full Courses List
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
-| 2023-11 | Inteligencia Artificial (Artificial Intelligence) | [Universidad Distrital](https://www.udistrital.edu.co/) | 50 h | |
-| 2023-11 | Analítica de Datos (Data Analytics) | [Universidad Distrital](https://www.udistrital.edu.co/)| 50 h | |
-| 2023-11 | Ciencia de Datos (Data Science) | [Universidad Distrital](https://www.udistrital.edu.co/) | 50 h | |
-| 2023-11 | Introducción al Análisis Exploratorio de Datos (Introduction to Exploratory Data Analysis) | [Universidad Central](https://www.ucentral.edu.co/) | 10 h | |
-| 2023-11 | Herramientas para la creación de recursos digitales (Tools for digital resources creation) | [Universidad Central](https://www.ucentral.edu.co/) | 25 h | |
+| 2023-11 | Inteligencia Artificial 
+(Artificial Intelligence) | [Universidad Distrital](https://www.udistrital.edu.co/) | 50 h | |
+| 2023-11 | Analítica de Datos 
+(Data Analytics) | [Universidad Distrital](https://www.udistrital.edu.co/)| 50 h | |
+| 2023-11 | Ciencia de Datos 
+(Data Science) | [Universidad Distrital](https://www.udistrital.edu.co/) | 50 h | |
+| 2023-11 | Introducción al Análisis Exploratorio de Datos 
+(Introduction to Exploratory Data Analysis) | [Universidad Central](https://www.ucentral.edu.co/) | 10 h | |
+| 2023-11 | Herramientas para la creación de recursos digitales 
+(Tools for digital resources creation) | [Universidad Central](https://www.ucentral.edu.co/) | 25 h | |
 | 2023-11 | Data Manipulation in SQL | [DataCamp](https://www.datacamp.com/) | 4 h | [link](https://www.datacamp.com/completed/statement-of-accomplishment/course/423ac72e9146fab75374de9a98ad577197f9f570) |
 | 2023-11 | Introduction to SQL | [DataCamp](https://www.datacamp.com/) | 2 h | [link](https://www.datacamp.com/completed/statement-of-accomplishment/course/49c408541e0c2035430f258d830d53286a0231c8) |
 | 2023-11 | Understanding Artificial Intelligence | [DataCamp](https://www.datacamp.com/) | 2 h | [link](https://www.datacamp.com/completed/statement-of-accomplishment/course/ef0b3852954fb2c8609934f66cbb50e17f48e747) |
