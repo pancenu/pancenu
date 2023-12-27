@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 # Complete List of Courses
 
 | Course | Institution | Time | Certificate |
-| Inteligencia artificial | Universidad Distrital | 50 h | |
+| ----------- | ----------- | -----------| ----------- |
+| Inteligencia Artificial (Artificial Inteligence) | Universidad Distrital | 50 h | |
+| Analítica de Datos (Data Analytics) | Universidad Distrital | 50 h | |
+| Ciencia de Datos (Data Science) | Universidad Distrital | 50 h | |
+| Análisis Exploratorio de Datos (Exploratory Data Analysis) | Universidad Central | 10 h | |
+
 
 
