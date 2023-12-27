@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # Certification 
 | Date | Expiration | Certification | Institution | Link |
+| --- | --- | --- | --- | --- |
 | 2023-12-10 | 2026-12-10 | Scrum Foundation Professional Certification - SFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) | [link](https://www.credly.com/badges/bbae5d59-de84-472c-8873-4f71e271cd65/) |
 
 # Complete List of Courses
