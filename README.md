@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
 
-| 2024-01 | [The AI Ladder: A Framework for Deploying AI in your Enterprise] (https://learn.ibm.com/course/view.php?id=8496) | [IBM](https://learn.ibm.com/) |||
+| 2024-01 | [The AI Ladder: A Framework for Deploying AI in your Enterprise] (https://learn.ibm.com/course/view.php?id=8496) | [IBM](https://learn.ibm.com/) | 3 h | |
 | 2024-01 | Applied Data Science with Python | [IBM](https://www.credly.com/organizations/ibm/badges) |  | [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) |
 | 2023-11 | Inteligencia Artificial (Artificial Intelligence) | [Universidad Distrital](https://www.udistrital.edu.co/) | 50 h | |
 | 2023-11 | Analítica de Datos (Data Analytics) | [Universidad Distrital](https://www.udistrital.edu.co/)| 50 h | |
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 | 2023-11 | Data Manipulation in SQL | [DataCamp](https://www.datacamp.com/) | 4 h | [link](https://www.datacamp.com/completed/statement-of-accomplishment/course/423ac72e9146fab75374de9a98ad577197f9f570) |
 | 2023-11 | Introduction to SQL | [DataCamp](https://www.datacamp.com/) | 2 h | [link](https://www.datacamp.com/completed/statement-of-accomplishment/course/49c408541e0c2035430f258d830d53286a0231c8) |
 | 2023-11 | Understanding Artificial Intelligence | [DataCamp](https://www.datacamp.com/) | 2 h | [link](https://www.datacamp.com/completed/statement-of-accomplishment/course/ef0b3852954fb2c8609934f66cbb50e17f48e747) |
-| 2023-11 | Introduction to ChatGPT | [DataCamp](https://www.datacamp.com/) | 1 h | [link](https://www.datacamp.com/completed/statement-of-accomplishment/course/2a4c9867887c9ffc9bbb872eaa0b8481650d6da6)|
-| 2023-10 | Python for Data Science | [IBM](https://www.credly.com/organizations/ibm/badges) |   | [link](https://www.credly.com/badges/b724f511-0ade-4536-9495-0254f3da0ff2/linked_in?t=s31nbk)|
-| 2023-09 | Bootcamp en testing: automatización y pruebas (Testing: automation and tests Bootcamp) | [MindHub](https://www.credly.com/organizations/mindhub/badges) | 150 h  | [link](https://www.credly.com/badges/b724f511-0ade-4536-9495-0254f3da0ff2/linked_in?t=s31nbk)|
+| 2023-11 | Introduction to ChatGPT | [DataCamp](https://www.datacamp.com/) | 1 h | [link](https://www.datacamp.com/completed/statement-of-accomplishment/course/2a4c9867887c9ffc9bbb872eaa0b8481650d6da6) |
+| 2023-10 | Python for Data Science | [IBM](https://www.credly.com/organizations/ibm/badges) |   | [link](https://www.credly.com/badges/b724f511-0ade-4536-9495-0254f3da0ff2/linked_in?t=s31nbk) |
+| 2023-09 | Bootcamp en testing: automatización y pruebas (Testing: automation and tests Bootcamp) | [MindHub](https://www.credly.com/organizations/mindhub/badges) | 150 h  | [link](https://www.credly.com/badges/b724f511-0ade-4536-9495-0254f3da0ff2/linked_in?t=s31nbk) |
 # Other pieces of paper
 2023-10 Evaluador de resúmenes del I Congreso Internacional y III Simposio Nacional de Bionanotecnología
 2023-10-12 English4 Most Engaged Award
