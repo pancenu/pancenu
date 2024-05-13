@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
-| 2024-03 | Big Data | Santander Open Academy | 20 h | |
+| 2024-03 | Big Data | [Santander Open Academy](https://app.santanderopenacademy.com/) | 20 h | |
 | 2024-01 | [The AI Ladder: A Framework for Deploying AI in your Enterprise] (https://learn.ibm.com/course/view.php?id=8496) | [IBM](https://learn.ibm.com/) | 3 h | |
 | 2024-01 | Applied Data Science with Python | [IBM](https://www.credly.com/organizations/ibm/badges) |  | [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) |
 | 2023-11 | Inteligencia Artificial (Artificial Intelligence) | [Universidad Distrital](https://www.udistrital.edu.co/) | 50 h | |
