@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+| 2024-05 | Proceso Sancionatorio Ambiental | [ANLA](https://aulavirtual.anla.gov.co/ ) | | |
+| 2024-05 | Datos Abiertos | [Universidad Corporativa MinTIC](https://gestiondelconocimiento.mintic.gov.co/714/w3-propertyvalue-85192.html) | 48 h | |
 | 2024-03 | Big Data | [Santander Open Academy](https://app.santanderopenacademy.com/) | 20 h | |
 | 2024-01 | [The AI Ladder: A Framework for Deploying AI in your Enterprise] (https://learn.ibm.com/course/view.php?id=8496) | [IBM](https://learn.ibm.com/) | 3 h | |
 | 2024-01 | Applied Data Science with Python | [IBM](https://www.credly.com/organizations/ibm/badges) |  | [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) |
@@ -41,7 +43,9 @@ Here are some ideas to get you started:
 | 2023-10 | Python for Data Science | [IBM](https://www.credly.com/organizations/ibm/badges) |   | [link](https://www.credly.com/badges/b724f511-0ade-4536-9495-0254f3da0ff2/linked_in?t=s31nbk) |
 | 2023-09 | Bootcamp en testing: automatización y pruebas (Testing: automation and tests Bootcamp) | [MindHub](https://www.credly.com/organizations/mindhub/badges) | 150 h  | [link](https://www.credly.com/badges/b724f511-0ade-4536-9495-0254f3da0ff2/linked_in?t=s31nbk) |
 # Other pieces of paper
-2023-10 Evaluador de resúmenes del I Congreso Internacional y III Simposio Nacional de Bionanotecnología
-2023-10-12 English4 Most Engaged Award
-2023-10-12 English4 Certificate of Completion & Excellence
+| Date | Certification |
+| --- |---|
+| 2023-10 | Evaluador de resúmenes del I Congreso Internacional y III Simposio Nacional de Bionanotecnología
+| 2023-10-12 | English4 Most Engaged Award
+| 2023-10-12 | English4 Certificate of Completion & Excellence
 
