@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
-|2024-05|Curso para comsumir APIs con Python | [Códigofacilito](https://codigofacilito.com/cursos/python-apis)|2h|[link](https://codigofacilito.com/certificates/8d12ca9c-a555-4d3d-9bc2-fa9b8a787876)|
+| 2024-05 | Curso para comsumir APIs con Python | [Códigofacilito](https://codigofacilito.com/cursos/python-apis)|2h|[link](https://codigofacilito.com/certificates/8d12ca9c-a555-4d3d-9bc2-fa9b8a787876) |
 | 2024-05 | Proceso Sancionatorio Ambiental | [ANLA](https://aulavirtual.anla.gov.co/ ) | |[link](https://1drv.ms/b/s!ArEqZcz51nTmsL8E02--t8sAv4ybMQ?e=jnZ9Nd) |
 | 2024-05 | Datos Abiertos | [Universidad Corporativa MinTIC](https://gestiondelconocimiento.mintic.gov.co/714/w3-propertyvalue-85192.html) | 48 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsL5F_zjdQ1aEDGxWpA?e=5oZqqr) |
-| 2024-03 | Big Data | [Santander Open Academy](https://app.santanderopenacademy.com/) | 20 h | |
+| 2024-03 | Big Data | [Santander Open Academy](https://app.santanderopenacademy.com/) | 20 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsMJpNq9MX7rPFhF9Zg?e=nzV2c2) |
 | 2024-01 | [The AI Ladder: A Framework for Deploying AI in your Enterprise] (https://learn.ibm.com/course/view.php?id=8496) | [IBM](https://learn.ibm.com/) | 3 h | |
 | 2024-01 | Applied Data Science with Python | [IBM](https://www.credly.com/organizations/ibm/badges) |  | [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) |
 | 2023-11 | Inteligencia Artificial (Artificial Intelligence) | [Universidad Distrital](https://www.udistrital.edu.co/) | 50 h | |
