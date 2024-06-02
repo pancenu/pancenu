@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 | 2023-10 | Python for Data Science | [IBM](https://www.credly.com/organizations/ibm/badges) |   | [link](https://www.credly.com/badges/b724f511-0ade-4536-9495-0254f3da0ff2/linked_in?t=s31nbk) |
 | 2023-09 | Bootcamp en testing: automatización y pruebas (Testing: automation and tests Bootcamp) | [MindHub](https://www.credly.com/organizations/mindhub/badges) | 150 h  | [link](https://www.credly.com/badges/b724f511-0ade-4536-9495-0254f3da0ff2/linked_in?t=s31nbk) |
 | 2023-   | Curso Introductorio Data Science | [Nuclio Digital School](https://nuclio.school/) |  |[link](https://1drv.ms/b/s!ArEqZcz51nTmsMMeozEK6mld7Gg4hw?e=6OahF5) |
-
+| 2022-10 | Desafío en Biodiversidad y Medio Ambiente (Challenge in Biodiversity and Environment) | [Instituto Ambiental GIS](https://www.escuelasig.online/) | 20 h | [link](https://1drv.ms/i/s!ArEqZcz51nTmsMQW8vSybxuVKzTsUg?e=4cTKGV) |
+| 2020-08 | Sistema de Gestión de la Seguridad y Salud en el Trabajo (Occupational Health and Safety Management System) | [ARL Seguros Bolívar](https://www.segurosbolivar.com/arl) | 50 h |[link](https://1drv.ms/b/s!ArEqZcz51nTmopxSzAb4eDU0Oas6CA?e=8aaTfZ) |
 # Other pieces of paper
 | Date | Certification |
 | --- |---|
