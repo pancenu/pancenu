@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 | 2024-05 | Datos Abiertos | [Universidad Corporativa MinTIC](https://gestiondelconocimiento.mintic.gov.co/714/w3-propertyvalue-85192.html) | 48 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsL5F_zjdQ1aEDGxWpA?e=5oZqqr) |
 | 2024-03 | Big Data | [Santander Open Academy](https://app.santanderopenacademy.com/) | 20 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsMJpNq9MX7rPFhF9Zg?e=nzV2c2) |
 | 2024-01 | [The AI Ladder: A Framework for Deploying AI in your Enterprise] (https://learn.ibm.com/course/view.php?id=8496) | [IBM](https://learn.ibm.com/) | 3 h | |
-| 2024-01 | Applied Data Science with Python | [IBM](https://www.credly.com/organizations/ibm/badges) |  | [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) |
+| 2024-02 | Data Visualization with Python |  [IBM](https://www.credly.com/organizations/ibm/badges) | | [link](https://courses.cognitiveclass.ai/certificates/c5fe23712f0e4d89bd6dc46ac0cab099) |
+| 2023-11 | Data Analysis with Python | [IBM](https://www.credly.com/organizations/ibm/badges) | | [link](https://courses.cognitiveclass.ai/certificates/6b52abd6b80a485da7170c2c56ad4b65) |
 | 2023-11 | Inteligencia Artificial (Artificial Intelligence) | [Universidad Distrital](https://www.udistrital.edu.co/) | 50 h | |
 | 2023-11 | Analítica de Datos (Data Analytics) | [Universidad Distrital](https://www.udistrital.edu.co/)| 50 h | |
 | 2023-11 | Ciencia de Datos (Data Science) | [Universidad Distrital](https://www.udistrital.edu.co/) | 50 h | |
