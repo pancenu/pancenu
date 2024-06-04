@@ -20,13 +20,16 @@ Here are some ideas to get you started:
 # Certification 
 | Date | Expiration | Certification | Institution | Link |
 | --- | --- | --- | --- | --- |
-| 2024-01-13|  | Applied Data Science with Python - Level 2 | [IBM](https://www.credly.com/organizations/ibm/badges) |  [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) |
+| 2024-06-04 |  | Machine Learning with Python - Level 1 | IBM | [link](https://www.credly.com/badges/b23418d2-b72c-49f6-86a3-cb11c5d90ced) |
+| 2024-06-03 |  | Data Science Foundations - Level 1 | IBM | [link](https://www.credly.com/badges/720568e3-145f-4bc0-b5dc-74711cafe5c2) |
+| 2024-01-13 |  | Applied Data Science with Python - Level 2 | [IBM](https://www.credly.com/organizations/ibm/badges) |  [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) |
 | 2023-12-10 | 2026-12-10 | Scrum Foundation Professional Certification - SFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) | [link](https://www.credly.com/badges/bbae5d59-de84-472c-8873-4f71e271cd65/) |
 
 # Full Course List
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+| 2024-06 | Machine Learning with Python | IBM | 3 h | [link](https://courses.cognitiveclass.ai/certificates/d0506e5db3604e00901e7cba6b492e0b) |
 | 2024-06 | Data Science 101 | [IBM](https://www.credly.com/organizations/ibm/badges) | 3 h | [link](https://courses.cognitiveclass.ai/certificates/980b0a770a894c778dca7abe79b34b4c) |
 | 2024-05 | Curso para comsumir APIs con Python | [Códigofacilito](https://codigofacilito.com/cursos/python-apis)|2h|[link](https://codigofacilito.com/certificates/8d12ca9c-a555-4d3d-9bc2-fa9b8a787876) |
 | 2024-05 | Proceso Sancionatorio Ambiental | [ANLA](https://aulavirtual.anla.gov.co/ ) | |[link](https://1drv.ms/b/s!ArEqZcz51nTmsL8E02--t8sAv4ybMQ?e=jnZ9Nd) |
