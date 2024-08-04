@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+| 2024-08 | Python for Data Science, AI and Development | IBM - Coursera | 25 h | [link](https://coursera.org/share/2dd1a4af7aa92008041423325c6fa5d4)|
 | 2024-06 | Machine Learning with Python | IBM | 3 h | [link](https://courses.cognitiveclass.ai/certificates/d0506e5db3604e00901e7cba6b492e0b) |
 | 2024-06 | Data Science 101 | [IBM](https://www.credly.com/organizations/ibm/badges) | 3 h | [link](https://courses.cognitiveclass.ai/certificates/980b0a770a894c778dca7abe79b34b4c) |
 | 2024-05 | Curso para comsumir APIs con Python | [Códigofacilito](https://codigofacilito.com/cursos/python-apis)|2h|[link](https://codigofacilito.com/certificates/8d12ca9c-a555-4d3d-9bc2-fa9b8a787876) |
