@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 # Certification 
 | Date | Expiration | Certification | Institution | Link |
 | --- | --- | --- | --- | --- |
+| 2024-08-xx | IBM Data Analyst Professional Certificate | IBM | link |
 | 2024-06-07 | 2027-06-07 |Business Intelligence Foundation Professional Certification - BIFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) |[link](https://www.credly.com/badges/bb6435be-5e79-40e0-a41a-b284f2ca5699/)|
 | 2024-06-04 |  | Machine Learning with Python - Level 1 | IBM | [link](https://www.credly.com/badges/b23418d2-b72c-49f6-86a3-cb11c5d90ced) |
 | 2024-06-03 |  | Data Science Foundations - Level 1 | IBM | [link](https://www.credly.com/badges/720568e3-145f-4bc0-b5dc-74711cafe5c2) |
@@ -30,6 +31,20 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+
+| 2024-08 | Data Analyst Career Guide and Interview Preparation | | | |
+| 2024-08 | Generative AI: Enhance your Data Analytics Career | | | |
+| 2024-08 | IBM Data Analyst Capstone Project | | | |
+| 2024-08 | Data Visualization with Python | | | |
+| 2024-08 | Data Analysis with Python | | | |
+| 2024-08 | Databases and SQL for Data Science with Python | | | |
+| 2024-08 | Python Project for Data Science | IBM - Coursera | | |
+| 2024-08 | Python for Data Science, AI & Development | IBM - Coursera | 25 h | [link]{https://www.coursera.org/account/accomplishments/verify/QI5JXJMF0SN7} |
+| 2024-08 | Data Visualization and Dashboards with Excel and Cognos | IBM - Coursera | 
+| 2024-08 | Excel Basics for Data Analysis | IBM - Coursera | | |
+| 2024-08 | Introduction to Data Analytics | IBM - Coursera | 10 h |[link]{https://www.coursera.org/account/accomplishments/verify/CZDA9CP7H65B} |
+| 2024-08 | Diseño y construcción de indicadores | DANE | 30 h | |
+| 2024-08 | Condiciones para la evaluaciòn de la calidad estadìstica | DANE | 30 h | |
 | 2024-08 | Python for Data Science, AI and Development | IBM - Coursera | 25 h | [link](https://coursera.org/share/2dd1a4af7aa92008041423325c6fa5d4)|
 | 2024-06 | Machine Learning with Python | IBM | 3 h | [link](https://courses.cognitiveclass.ai/certificates/d0506e5db3604e00901e7cba6b492e0b) |
 | 2024-06 | Data Science 101 | [IBM](https://www.credly.com/organizations/ibm/badges) | 3 h | [link](https://courses.cognitiveclass.ai/certificates/980b0a770a894c778dca7abe79b34b4c) |
