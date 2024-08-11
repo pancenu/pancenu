@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 | 2024-08 | Generative AI: Enhance your Data Analytics Career  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
 | 2024-08 | IBM Data Analyst Capstone Project  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
 | 2024-08 | Data Visualization with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
-| 2024-08 | Data Analysis with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | [link](https://coursera.org/share/3115335d01c871f5b4a9a0b3925d5618) |
+| 2024-08 | Data Analysis with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/3115335d01c871f5b4a9a0b3925d5618) |
 | 2024-08 | Databases and SQL for Data Science with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
 | 2024-08 | Python Project for Data Science | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
-| 2024-08 | Python for Data Science, AI & Development | IBM - Coursera | 25 h | [link](https://www.coursera.org/account/accomplishments/verify/QI5JXJMF0SN7) |
+| 2024-08 | Python for Data Science, AI & Development | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 25 h | [link](https://www.coursera.org/account/accomplishments/verify/QI5JXJMF0SN7) |
 | 2024-08 | Data Visualization and Dashboards with Excel and Cognos  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | | 
-| 2024-08 | Excel Basics for Data Analysis  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
+| 2024-08 | Excel Basics for Data Analysis  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 12 h | [link](https://coursera.org/share/d230e509c863115cb90b221a7e590dfe) |
 | 2024-08 | Introduction to Data Analytics | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 10 h |[link](https://www.coursera.org/account/accomplishments/verify/CZDA9CP7H65B) |
 | 2024-08 | Diseño y construcción de indicadores | DANE | 30 h | |
 | 2024-08 | Condiciones para la evaluaciòn de la calidad estadìstica | DANE | 30 h | |
