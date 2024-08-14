@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 | 2024-08 | IBM Data Analyst Capstone Project  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
 | 2024-08 | Data Visualization with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
 | 2024-08 | Data Analysis with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/3115335d01c871f5b4a9a0b3925d5618) |
-| 2024-08 | Databases and SQL for Data Science with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
+| 2024-08 | Databases and SQL for Data Science with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 20 h | [link](https://coursera.org/share/1de88d1c99f3db72a5225d50b8e02ad5)|
 | 2024-08 | Python Project for Data Science | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
 | 2024-08 | Python for Data Science, AI & Development | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 25 h | [link](https://www.coursera.org/account/accomplishments/verify/QI5JXJMF0SN7) |
 | 2024-08 | Data Visualization and Dashboards with Excel and Cognos  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | | 
