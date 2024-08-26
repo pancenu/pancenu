@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+| 2024-08 | Delivering Quality Work with Agility | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 1 h | [link](https://coursera.org/share/4c202aea8f90a3f9b02dab6808b7a98c) |
 | 2024-08 | Data Analyst Career Guide and Interview Preparation  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
 | 2024-08 | Generative AI: Enhance your Data Analytics Career  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
 | 2024-08 | IBM Data Analyst Capstone Project  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
