@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 | ----------- | ----------- | ----------- | -----------| ----------- |
 | 2024-08 | Delivering Quality Work with Agility | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 1 h | [link](https://coursera.org/share/4c202aea8f90a3f9b02dab6808b7a98c) |
 | 2024-08 | Data Analyst Career Guide and Interview Preparation  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
-| 2024-08 | Generative AI: Enhance your Data Analytics Career  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
+| 2024-08 | Generative AI: Enhance your Data Analytics Career  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 14 h |[link](https://coursera.org/share/6f7b9b1534406e2e40887d732544c930) |
 | 2024-08 | IBM Data Analyst Capstone Project  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
 | 2024-08 | Data Visualization with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 20 h |[link](https://coursera.org/share/6282a3df8450454d5a88ba5119014ccd) |
 | 2024-08 | Data Analysis with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/3115335d01c871f5b4a9a0b3925d5618) |
 | 2024-08 | Databases and SQL for Data Science with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 20 h | [link](https://coursera.org/share/1de88d1c99f3db72a5225d50b8e02ad5)|
 | 2024-08 | Python Project for Data Science | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 8 h | [link](https://coursera.org/share/7d1b361d92c16f43a30cf82a4e66d91a) |
 | 2024-08 | Python for Data Science, AI & Development | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 25 h | [link](https://www.coursera.org/account/accomplishments/verify/QI5JXJMF0SN7) |
-| 2024-08 | Data Visualization and Dashboards with Excel and Cognos  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | | 
+| 2024-08 | Data Visualization and Dashboards with Excel and Cognos  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/4694c3a9cef535a64593a3edb56c3d04) | 
 | 2024-08 | Excel Basics for Data Analysis  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 12 h | [link](https://coursera.org/share/d230e509c863115cb90b221a7e590dfe) |
 | 2024-08 | Introduction to Data Analytics | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 10 h |[link](https://www.coursera.org/account/accomplishments/verify/CZDA9CP7H65B) |
 | 2024-08 | Diseño y construcción de indicadores | DANE | 30 h | |
