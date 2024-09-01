@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Certification 
 | Date | Expiration | Certification | Institution | Link |
 | --- | --- | --- | --- | --- |
-| 2024-08-xx | | IBM Data Analyst Professional Certificate | IBM | link |
+| 2024-08-xx | | IBM Data Analyst Professional Certificate | IBM | [link](https://coursera.org/share/a693b10c7b78bca70b9ea6888dc6769e) |
 | 2024-06-07 | 2027-06-07 |Business Intelligence Foundation Professional Certification - BIFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) |[link](https://www.credly.com/badges/bb6435be-5e79-40e0-a41a-b284f2ca5699/)|
 | 2024-06-04 |  | Machine Learning with Python - Level 1 | IBM | [link](https://www.credly.com/badges/b23418d2-b72c-49f6-86a3-cb11c5d90ced) |
 | 2024-06-03 |  | Data Science Foundations - Level 1 | IBM | [link](https://www.credly.com/badges/720568e3-145f-4bc0-b5dc-74711cafe5c2) |
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
 | 2024-08 | Delivering Quality Work with Agility | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 1 h | [link](https://coursera.org/share/4c202aea8f90a3f9b02dab6808b7a98c) |
-| 2024-08 | Data Analyst Career Guide and Interview Preparation  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
+| 2024-08 | Data Analyst Career Guide and Interview Preparation  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 10 h| [link](https://coursera.org/share/cf9c84f1dc3f2e199cb77fd1e16718ce)|
 | 2024-08 | Generative AI: Enhance your Data Analytics Career  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 14 h |[link](https://coursera.org/share/6f7b9b1534406e2e40887d732544c930) |
-| 2024-08 | IBM Data Analyst Capstone Project  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | | |
+| 2024-08 | IBM Data Analyst Capstone Project  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 18 | [link](https://coursera.org/share/35230c46c10293d5b5d4b78df9f47b5a)|
 | 2024-08 | Data Visualization with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 20 h |[link](https://coursera.org/share/6282a3df8450454d5a88ba5119014ccd) |
 | 2024-08 | Data Analysis with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/3115335d01c871f5b4a9a0b3925d5618) |
 | 2024-08 | Databases and SQL for Data Science with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 20 h | [link](https://coursera.org/share/1de88d1c99f3db72a5225d50b8e02ad5)|
