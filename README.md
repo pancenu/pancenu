@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+| 2024-09 | Tools for Data Science | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 18 h| [link](https://coursera.org/share/5c38a1575e4d9b73191c50ee91d6ddb0) |
 | 2024-08 | Delivering Quality Work with Agility | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 1 h | [link](https://coursera.org/share/4c202aea8f90a3f9b02dab6808b7a98c) |
 | 2024-08 | Data Analyst Career Guide and Interview Preparation  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 10 h| [link](https://coursera.org/share/cf9c84f1dc3f2e199cb77fd1e16718ce)|
 | 2024-08 | Generative AI: Enhance your Data Analytics Career  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 14 h |[link](https://coursera.org/share/6f7b9b1534406e2e40887d732544c930) |
