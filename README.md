@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Certification 
 | Date | Expiration | Certification | Institution | Link |
 | --- | --- | --- | --- | --- |
-| 2024-11-07 |  | IBM Data Science Professional Certificate | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/43b57635122373205b09b99de6331a27) |
+| 2024-11-07 |  | IBM Data Science Professional Certificate | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/329cfd96d6cf149ec9529202a5b2476b) |
 | 2024-08-09 |  | IBM Data Analyst Professional Certificate | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/a693b10c7b78bca70b9ea6888dc6769e) |
 | 2024-06-07 | 2027-06-07 |Business Intelligence Foundation Professional Certification - BIFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) |[link](https://www.credly.com/badges/bb6435be-5e79-40e0-a41a-b284f2ca5699/)|
 | 2024-06-04 |  | Machine Learning with Python - Level 1 | IBM | [link](https://www.credly.com/badges/b23418d2-b72c-49f6-86a3-cb11c5d90ced) |
