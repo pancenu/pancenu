@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--- | 2023-12-10 | 2026-12-10 | Scrum Foundation Professional Certification - SFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) | [link](https://www.credly.com/badges/bbae5d59-de84-472c-8873-4f71e271cd65/) | --->
 # Some projects:
 ## Data Analyst Caption Project
-[Data Analyst Caption Project](https://github.com/pancenu/DataAnalystCapstoneProject/blob/8398d72834166ddeeb70b3c1fad128d55a3817b0/DataAnalystCpstoneProject01.png)
+![Data Analyst Caption Project](https://github.com/pancenu/DataAnalystCapstoneProject/blob/8398d72834166ddeeb70b3c1fad128d55a3817b0/DataAnalystCpstoneProject01.png)
 [Data Analyst Caption Project](https://github.com/pancenu/DataAnalystCapstoneProject/)
 
 # Full Courses List
