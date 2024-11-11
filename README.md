@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 | 2024-11 | Data Scientist Career Guide and Interview Preparation | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 9 h | [link](https://coursera.org/share/c1f1ee39e1f1c4e6924a0b26583a2661) |
 | 2024-10 | Generative AI: Elevate your Data Science Career |  [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 12 h |[link](https://coursera.org/share/ffd1dd05e528b2b66b44706d5906aea9) |
 | 2024-10 | Applied Data Science Capstone Project | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 13 h | [link](https://coursera.org/share/fc935a2a36b097c7b6e10bc0e7913561) |
+| 2024-10 | Bootcamp: Análisis y Visualización de Datos - Nivel Avanzado | [TalentoTech](https://talentotechbogota.co/) | 159 h | [Link](https://1drv.ms/b/s!ArEqZcz51nTmsuV7n_-Z2oE6RzjA2A?e=l3heYa) |
 | 2024-09 | Machine Learning with Python | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 13 h | [link](https://coursera.org/share/47c1ed915eb5a7d6ce0989fe0f479600) |
 | 2024-09 | Supervised Machine Learning: Regression and Classification | [DeepLearning-AI Coursera](https://www.coursera.org/partners/deeplearning-ai) | 33 h | [link](https://coursera.org/share/acec7e42af0ff9623a892aa30b145c9f) |
 | 2024-09 | Data Science Methodology | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 6 h| [link](https://coursera.org/share/e1318ba2e7670e6643db4e1b50a203c9) |
