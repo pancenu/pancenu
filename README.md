@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 | 2024-11-07 |  | IBM Data Science Professional Certificate | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/329cfd96d6cf149ec9529202a5b2476b) |
 | 2024-08-09 |  | IBM Data Analyst Professional Certificate | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/a693b10c7b78bca70b9ea6888dc6769e) |
 | 2024-06-07 | 2027-06-07 |Business Intelligence Foundation Professional Certification - BIFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) |[link](https://www.credly.com/badges/bb6435be-5e79-40e0-a41a-b284f2ca5699/)|
-| 2024-06-04 |  | Machine Learning with Python - Level 1 | IBM | [link](https://www.credly.com/badges/b23418d2-b72c-49f6-86a3-cb11c5d90ced) |
-| 2024-06-03 |  | Data Science Foundations - Level 1 | IBM | [link](https://www.credly.com/badges/720568e3-145f-4bc0-b5dc-74711cafe5c2) |
-| 2024-01-13 |  | Applied Data Science with Python - Level 2 | [IBM](https://www.credly.com/organizations/ibm/badges) |  [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) |
+<!--- | 2024-06-04 |  | Machine Learning with Python - Level 1 | IBM | [link](https://www.credly.com/badges/b23418d2-b72c-49f6-86a3-cb11c5d90ced) | --->
+<!--- | 2024-06-03 |  | Data Science Foundations - Level 1 | IBM | [link](https://www.credly.com/badges/720568e3-145f-4bc0-b5dc-74711cafe5c2) | --->
+<!--- | 2024-01-13 |  | Applied Data Science with Python - Level 2 | [IBM](https://www.credly.com/organizations/ibm/badges) |  [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) | --->
 | 2023-12-10 | 2026-12-10 | Scrum Foundation Professional Certification - SFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) | [link](https://www.credly.com/badges/bbae5d59-de84-472c-8873-4f71e271cd65/) |
 
 # Full Course List
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 | 2024-08 | Data Visualization and Dashboards with Excel and Cognos  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/4694c3a9cef535a64593a3edb56c3d04) | 
 | 2024-08 | Excel Basics for Data Analysis  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 12 h | [link](https://coursera.org/share/d230e509c863115cb90b221a7e590dfe) |
 | 2024-08 | Introduction to Data Analytics | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 10 h |[link](https://www.coursera.org/account/accomplishments/verify/CZDA9CP7H65B) |
-| 2024-08 | Diseño y construcción de indicadores | DANE | 30 h | |
-| 2024-08 | Condiciones para la evaluaciòn de la calidad estadìstica | DANE | 30 h | |
+| 2024-08 | Diseño y construcción de indicadores | DANE | 30 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsuV-SnqnoXEjF0pzEw?e=fQEjmF)|
+| 2024-08 | Condiciones para la evaluaciòn de la calidad estadìstica | DANE | 30 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsOhHmvWKFXPdON5uLg?e=MGgdm2)|
 | 2024-06 | Machine Learning with Python | IBM | 3 h | [link](https://courses.cognitiveclass.ai/certificates/d0506e5db3604e00901e7cba6b492e0b) |
 | 2024-06 | Data Science 101 | [IBM](https://www.credly.com/organizations/ibm/badges) | 3 h | [link](https://courses.cognitiveclass.ai/certificates/980b0a770a894c778dca7abe79b34b4c) |
 | 2024-05 | Curso para comsumir APIs con Python | [Códigofacilito](https://codigofacilito.com/cursos/python-apis)|2h|[link](https://codigofacilito.com/certificates/8d12ca9c-a555-4d3d-9bc2-fa9b8a787876) |
@@ -77,6 +77,7 @@ Here are some ideas to get you started:
 | 2023-   | Curso Introductorio Data Science | [Nuclio Digital School](https://nuclio.school/) |  |[link](https://1drv.ms/b/s!ArEqZcz51nTmsMMeozEK6mld7Gg4hw?e=6OahF5) |
 | 2022-10 | Desafío en Biodiversidad y Medio Ambiente (Challenge in Biodiversity and Environment) | [Instituto Ambiental GIS](https://www.escuelasig.online/) | 20 h | [link](https://1drv.ms/i/s!ArEqZcz51nTmsMQW8vSybxuVKzTsUg?e=4cTKGV) |
 | 2020-08 | Sistema de Gestión de la Seguridad y Salud en el Trabajo (Occupational Health and Safety Management System) | [ARL Seguros Bolívar](https://www.segurosbolivar.com/arl) | 50 h |[link](https://1drv.ms/b/s!ArEqZcz51nTmopxSzAb4eDU0Oas6CA?e=8aaTfZ) |
+
 # Other pieces of paper
 | Date | Certification |
 | --- |---|
