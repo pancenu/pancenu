@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 | 2024-11-07 |  | IBM Data Science Professional Certificate | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/329cfd96d6cf149ec9529202a5b2476b) |
 | 2024-08-09 |  | IBM Data Analyst Professional Certificate | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/a693b10c7b78bca70b9ea6888dc6769e) |
 | 2024-06-07 | 2027-06-07 |Business Intelligence Foundation Professional Certification - BIFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) |[link](https://www.credly.com/badges/bb6435be-5e79-40e0-a41a-b284f2ca5699/)|
-<!--- | 2024-06-04 |  | Machine Learning with Python - Level 1 | IBM | [link](https://www.credly.com/badges/b23418d2-b72c-49f6-86a3-cb11c5d90ced) | --->
 <!--- | 2024-06-03 |  | Data Science Foundations - Level 1 | IBM | [link](https://www.credly.com/badges/720568e3-145f-4bc0-b5dc-74711cafe5c2) | --->
 <!--- | 2024-01-13 |  | Applied Data Science with Python - Level 2 | [IBM](https://www.credly.com/organizations/ibm/badges) |  [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) | --->
-| 2023-12-10 | 2026-12-10 | Scrum Foundation Professional Certification - SFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) | [link](https://www.credly.com/badges/bbae5d59-de84-472c-8873-4f71e271cd65/) |
+<!--- | 2023-12-10 | 2026-12-10 | Scrum Foundation Professional Certification - SFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) | [link](https://www.credly.com/badges/bbae5d59-de84-472c-8873-4f71e271cd65/) | --->
 
 # Full Course List
 
