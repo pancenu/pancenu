@@ -32,6 +32,13 @@ Here are some ideas to get you started:
 ![Data Analyst Caption Project](https://github.com/pancenu/DataAnalystCapstoneProject/blob/8398d72834166ddeeb70b3c1fad128d55a3817b0/DataAnalystCpstoneProject01.png)
 [Data Analyst Caption Project](https://github.com/pancenu/DataAnalystCapstoneProject/)
 
+## PowerBI Reports:
+[Hackaton TalentoTech Bootcamp](https://app.powerbi.com/view?r=eyJrIjoiNjMzMWZjNzgtN2E4Yy00Nzk5LWFiNDUtNTMzNzI1NmI2MzVmIiwidCI6IjU4NzU1NDNmLTRhNjUtNDUxYS04MjcwLTM1YWI4Mjg5OTliMCIsImMiOjR9)
+[Production](https://app.powerbi.com/view?r=eyJrIjoiZTFjNzFlNGYtZDJlMS00YTdmLWE5YTctZDQ2NWI0OWYwOTA1IiwidCI6IjU4NzU1NDNmLTRhNjUtNDUxYS04MjcwLTM1YWI4Mjg5OTliMCIsImMiOjR9)
+[Financial](https://app.powerbi.com/view?r=eyJrIjoiMzZlZjE1ZDQtYjA3Ny00N2E5LWEyN2MtMjEwNzM5MzJkZDA0IiwidCI6IjU4NzU1NDNmLTRhNjUtNDUxYS04MjcwLTM1YWI4Mjg5OTliMCIsImMiOjR9)
+[Production](https://app.powerbi.com/view?r=eyJrIjoiNDA0NDEzZGUtMjNjMS00MjMzLWI0OTctNWM5ODdmOGM1ZDlmIiwidCI6IjU4NzU1NDNmLTRhNjUtNDUxYS04MjcwLTM1YWI4Mjg5OTliMCIsImMiOjR9)
+[Resumen Financiero](https://app.powerbi.com/view?r=eyJrIjoiZTZmMWUzZjItMGNkNi00MTUxLWE1MGYtMWYzOTE1MzQwODAxIiwidCI6IjU4NzU1NDNmLTRhNjUtNDUxYS04MjcwLTM1YWI4Mjg5OTliMCIsImMiOjR9)
+
 # Full Courses List
 
 | Date | Course | Institution | Time | Certificate |
