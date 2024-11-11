@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# Certification 
+# Certifications List
 | Date | Expiration | Certification | Institution | Link |
 | --- | --- | --- | --- | --- |
 | 2024-11-07 |  | IBM Data Science Professional Certificate | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/329cfd96d6cf149ec9529202a5b2476b) |
@@ -27,8 +27,12 @@ Here are some ideas to get you started:
 <!--- | 2024-06-03 |  | Data Science Foundations - Level 1 | IBM | [link](https://www.credly.com/badges/720568e3-145f-4bc0-b5dc-74711cafe5c2) | --->
 <!--- | 2024-01-13 |  | Applied Data Science with Python - Level 2 | [IBM](https://www.credly.com/organizations/ibm/badges) |  [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) | --->
 <!--- | 2023-12-10 | 2026-12-10 | Scrum Foundation Professional Certification - SFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) | [link](https://www.credly.com/badges/bbae5d59-de84-472c-8873-4f71e271cd65/) | --->
+# Some projects:
+## Data Analyst Caption Project
+[Data Analyst Caption Project](https://github.com/pancenu/DataAnalystCapstoneProject/blob/8398d72834166ddeeb70b3c1fad128d55a3817b0/DataAnalystCpstoneProject01.png)
+[Data Analyst Caption Project](https://github.com/pancenu/DataAnalystCapstoneProject/)
 
-# Full Course List
+# Full Courses List
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
