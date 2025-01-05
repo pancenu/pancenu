@@ -20,13 +20,22 @@ Here are some ideas to get you started:
 # Certifications List
 | Date | Expiration | Certification | Institution | Link |
 | --- | --- | --- | --- | --- |
-| 2024-11-07 |  | IBM Data Science Professional Certificate | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/329cfd96d6cf149ec9529202a5b2476b) |
-| 2024-08-09 |  | IBM Data Analyst Professional Certificate | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/a693b10c7b78bca70b9ea6888dc6769e) |
-| 2024-06-07 | 2027-06-07 |Business Intelligence Foundation Professional Certification - BIFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) |[link](https://www.credly.com/badges/bb6435be-5e79-40e0-a41a-b284f2ca5699/)|
+| 2024-11-26 |  | Data Analytics Certified Professional | [ITCertificate](https://www.itcertificate.us/data_analytics_certified_professional/) | [link](https://1drv.ms/b/s!ArEqZcz51nTmsutoZ0KNjSXJ-JISCA?e=fXiMBH) | <!-- (https://1drv.ms/b/s!ArEqZcz51nTmsutoZ0KNjSXJ-JISCA?e=fXiMBH, https://1drv.ms/b/s!ArEqZcz51nTmsutoZ0KNjSXJ-JISCA?e=VLwQVk) (https://itcertificate.us/campus/mod/customcert/verify_certificate.php?code=04iol3hMY4) -->
+| 2024-06-07 | 2027-06-07 |Business Intelligence Foundation Professional Certification - BIFPC™ | [CertiProf](https://certiprof.com/pages/business-intelligence-foundation-professional-certification-bifpc) |[link](https://www.credly.com/badges/bb6435be-5e79-40e0-a41a-b284f2ca5699/)|
 | 2023-12-10 | 2026-12-10 | Scrum Foundation Professional Certification - SFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) | [link](https://www.credly.com/badges/bbae5d59-de84-472c-8873-4f71e271cd65/) | 
 <!--- | 2024-06-03 |  | Data Science Foundations - Level 1 | IBM | [link](https://www.credly.com/badges/720568e3-145f-4bc0-b5dc-74711cafe5c2) | --->
 <!--- | 2024-01-13 |  | Applied Data Science with Python - Level 2 | [IBM](https://www.credly.com/organizations/ibm/badges) |  [link](https://www.credly.com/badges/20230129-56fe-4075-b3f1-90cfb57c10ce/linked_in?t=s77pcg) | --->
 <!--- | 2023-12-10 | 2026-12-10 | Scrum Foundation Professional Certification - SFPC™ | [CertiProf](https://certiprof.com/pages/scrum-foundation-certificate-free) | [link](https://www.credly.com/badges/bbae5d59-de84-472c-8873-4f71e271cd65/) | --->
+
+# Specializations List
+| Date |  Certification | Institution | Link |
+| --- |  --- | --- | --- |
+| 2024-12-11 | Generative AI for Data Scientist | [IBM](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/2edf80b212c68ad6093d74d3e5a169c6) |
+| 2024-12-11 | Generative AI for Data Scientist | [IBM](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/995fe5819b46d2951597f7cead475fcc) |
+| 2024-11-25 | Machine Learning | [DeepLearning.AI](https://www.coursera.org/partners/deeplearning-ai)-[Stanford University](https://www.coursera.org/partners/stanford) | [link](https://coursera.org/share/53456bf31db4920a1e105bf422f14153) | 
+| 2024-11-07 | IBM Data Science Professional Certificate | [IBM](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/329cfd96d6cf149ec9529202a5b2476b) |
+| 2024-08-09 | IBM Data Analyst Professional Certificate | [IBM](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/a693b10c7b78bca70b9ea6888dc6769e) |
+
 # Some projects:
 ## Data Analyst Caption Project
 ![Data Analyst Caption Project](https://github.com/pancenu/DataAnalystCapstoneProject/blob/8398d72834166ddeeb70b3c1fad128d55a3817b0/DataAnalystCpstoneProject01.png)
@@ -43,27 +52,31 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
-| 2024-11 | Data Scientist Career Guide and Interview Preparation | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 9 h | [link](https://coursera.org/share/c1f1ee39e1f1c4e6924a0b26583a2661) |
-| 2024-10 | Generative AI: Elevate your Data Science Career |  [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 12 h |[link](https://coursera.org/share/ffd1dd05e528b2b66b44706d5906aea9) |
-| 2024-10 | Applied Data Science Capstone Project | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 13 h | [link](https://coursera.org/share/fc935a2a36b097c7b6e10bc0e7913561) |
+| 2024-12 | Generative AI: Introduction and Applications | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 6 h | [link](https://coursera.org/share/ca05b51229591aef5a08bfd1f9646dd1) |
+| 2024-11 | Generative AI: Prompt Engineering Basics | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 7 h | [link](https://coursera.org/share/9310199e6740004108d3d30b3ac2ec6c) |
+| 2024-11 | Advanced Learning Algorithms | [DeepLearning.AI](https://www.coursera.org/partners/deeplearning-ai)-[Stanford University](https://www.coursera.org/partners/stanford) | 34 h | [link](https://coursera.org/share/b830406b0ddc7994beea76c60ed53e99) |
+| 2024-11 | Unsupervised Learning, Recommenders, Reinforcement Learning | [DeepLearning.AI](https://www.coursera.org/partners/deeplearning-ai)-[Stanford University](https://www.coursera.org/partners/stanford) | 27 h | [link](https://coursera.org/share/1b647089d79f22605f7ba8d96d7533c9) |
+| 2024-11 | Data Scientist Career Guide and Interview Preparation | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 9 h | [link](https://coursera.org/share/c1f1ee39e1f1c4e6924a0b26583a2661) |
+| 2024-10 | Generative AI: Elevate your Data Science Career |  [IBM](https://www.coursera.org/partners/ibm-skills-network) | 12 h |[link](https://coursera.org/share/ffd1dd05e528b2b66b44706d5906aea9) |
+| 2024-10 | Applied Data Science Capstone Project | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 13 h | [link](https://coursera.org/share/fc935a2a36b097c7b6e10bc0e7913561) |
 | 2024-10 | Bootcamp: Análisis y Visualización de Datos - Nivel Avanzado | [TalentoTech](https://talentotechbogota.co/) | 159 h | [Link](https://1drv.ms/b/s!ArEqZcz51nTmsuV7n_-Z2oE6RzjA2A?e=l3heYa) |
-| 2024-09 | Machine Learning with Python | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 13 h | [link](https://coursera.org/share/47c1ed915eb5a7d6ce0989fe0f479600) |
-| 2024-09 | Supervised Machine Learning: Regression and Classification | [DeepLearning-AI Coursera](https://www.coursera.org/partners/deeplearning-ai) | 33 h | [link](https://coursera.org/share/acec7e42af0ff9623a892aa30b145c9f) |
-| 2024-09 | Data Science Methodology | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 6 h| [link](https://coursera.org/share/e1318ba2e7670e6643db4e1b50a203c9) |
-| 2024-08 | What is Data Science | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 11 h | [link](https://coursera.org/share/43b57635122373205b09b99de6331a27) |
-| 2024-09 | Tools for Data Science |  [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 18 h| [link](https://coursera.org/share/5c38a1575e4d9b73191c50ee91d6ddb0) |
-| 2024-08 | Delivering Quality Work with Agility | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 1 h | [link](https://coursera.org/share/4c202aea8f90a3f9b02dab6808b7a98c) |
-| 2024-08 | Data Analyst Career Guide and Interview Preparation  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 10 h| [link](https://coursera.org/share/cf9c84f1dc3f2e199cb77fd1e16718ce)|
-| 2024-08 | Generative AI: Enhance your Data Analytics Career  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 14 h |[link](https://coursera.org/share/6f7b9b1534406e2e40887d732544c930) |
-| 2024-08 | IBM Data Analyst Capstone Project  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 18 | [link](https://coursera.org/share/35230c46c10293d5b5d4b78df9f47b5a)|
-| 2024-08 | Data Visualization with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 20 h |[link](https://coursera.org/share/6282a3df8450454d5a88ba5119014ccd) |
-| 2024-08 | Data Analysis with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/3115335d01c871f5b4a9a0b3925d5618) |
-| 2024-08 | Databases and SQL for Data Science with Python  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 20 h | [link](https://coursera.org/share/1de88d1c99f3db72a5225d50b8e02ad5)|
-| 2024-08 | Python Project for Data Science | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 8 h | [link](https://coursera.org/share/7d1b361d92c16f43a30cf82a4e66d91a) |
-| 2024-08 | Python for Data Science, AI & Development | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 25 h | [link](https://www.coursera.org/account/accomplishments/verify/QI5JXJMF0SN7) |
-| 2024-08 | Data Visualization and Dashboards with Excel and Cognos  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/4694c3a9cef535a64593a3edb56c3d04) | 
-| 2024-08 | Excel Basics for Data Analysis  | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 12 h | [link](https://coursera.org/share/d230e509c863115cb90b221a7e590dfe) |
-| 2024-08 | Introduction to Data Analytics | [IBM - Coursera](https://www.coursera.org/partners/ibm-skills-network) | 10 h |[link](https://www.coursera.org/account/accomplishments/verify/CZDA9CP7H65B) |
+| 2024-09 | Machine Learning with Python | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 13 h | [link](https://coursera.org/share/47c1ed915eb5a7d6ce0989fe0f479600) |
+| 2024-09 | Supervised Machine Learning: Regression and Classification | [DeepLearning.AI](https://www.coursera.org/partners/deeplearning-ai)-[Stanford University](https://www.coursera.org/partners/stanford) | 33 h | [link](https://coursera.org/share/94ea8bc188b30c1cbf2fa8da633edf01) |
+| 2024-09 | Data Science Methodology | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 6 h| [link](https://coursera.org/share/e1318ba2e7670e6643db4e1b50a203c9) |
+| 2024-08 | What is Data Science | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 11 h | [link](https://coursera.org/share/43b57635122373205b09b99de6331a27) |
+| 2024-09 | Tools for Data Science |  [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 h| [link](https://coursera.org/share/5c38a1575e4d9b73191c50ee91d6ddb0) |
+| 2024-08 | Delivering Quality Work with Agility | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 1 h | [link](https://coursera.org/share/4c202aea8f90a3f9b02dab6808b7a98c) |
+| 2024-08 | Data Analyst Career Guide and Interview Preparation  | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 10 h| [link](https://coursera.org/share/cf9c84f1dc3f2e199cb77fd1e16718ce)|
+| 2024-08 | Generative AI: Enhance your Data Analytics Career  | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 14 h |[link](https://coursera.org/share/6f7b9b1534406e2e40887d732544c930) |
+| 2024-08 | IBM Data Analyst Capstone Project  | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 | [link](https://coursera.org/share/35230c46c10293d5b5d4b78df9f47b5a)|
+| 2024-08 | Data Visualization with Python  | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 20 h |[link](https://coursera.org/share/6282a3df8450454d5a88ba5119014ccd) |
+| 2024-08 | Data Analysis with Python  | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/3115335d01c871f5b4a9a0b3925d5618) |
+| 2024-08 | Databases and SQL for Data Science with Python  | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 20 h | [link](https://coursera.org/share/1de88d1c99f3db72a5225d50b8e02ad5)|
+| 2024-08 | Python Project for Data Science | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 8 h | [link](https://coursera.org/share/7d1b361d92c16f43a30cf82a4e66d91a) |
+| 2024-08 | Python for Data Science, AI & Development | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 25 h | [link](https://www.coursera.org/account/accomplishments/verify/QI5JXJMF0SN7) |
+| 2024-08 | Data Visualization and Dashboards with Excel and Cognos  | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/4694c3a9cef535a64593a3edb56c3d04) | 
+| 2024-08 | Excel Basics for Data Analysis  | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 12 h | [link](https://coursera.org/share/d230e509c863115cb90b221a7e590dfe) |
+| 2024-08 | Introduction to Data Analytics | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 10 h |[link](https://www.coursera.org/account/accomplishments/verify/CZDA9CP7H65B) |
 | 2024-08 | Diseño y construcción de indicadores | DANE | 30 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsuV-SnqnoXEjF0pzEw?e=fQEjmF)|
 | 2024-08 | Condiciones para la evaluaciòn de la calidad estadìstica | DANE | 30 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsOhHmvWKFXPdON5uLg?e=MGgdm2)|
 | 2024-06 | Machine Learning with Python | IBM | 3 h | [link](https://courses.cognitiveclass.ai/certificates/d0506e5db3604e00901e7cba6b492e0b) |
