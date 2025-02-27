@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+| 2025-01 | [Digital Transformation](https://www.santanderopenacademy.com/en/courses/digital-transformation.html) | [Open Academy](https://www.santanderopenacademy.com)  | 8 h| [link](https://drive.google.com/file/d/1Kl_EJjHQEGtgmAAQY_js1qqUKU6p9LiW) |
 | 2024-12 | Generative AI: Introduction and Applications | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 6 h | [link](https://coursera.org/share/ca05b51229591aef5a08bfd1f9646dd1) |
 | 2024-11 | Generative AI: Prompt Engineering Basics | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 7 h | [link](https://coursera.org/share/9310199e6740004108d3d30b3ac2ec6c) |
 | 2024-11 | Advanced Learning Algorithms | [DeepLearning.AI](https://www.coursera.org/partners/deeplearning-ai)-[Stanford University](https://www.coursera.org/partners/stanford) | 34 h | [link](https://coursera.org/share/b830406b0ddc7994beea76c60ed53e99) |
