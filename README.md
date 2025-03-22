@@ -52,6 +52,10 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+| 2025-03 | Curso de Introducción a DevOps | Platzi | 10 h | [link](https://platzi.com/p/flprietot/curso/4558-introduccion-devops/diploma/detalle/) |
+| 2025-03 | Análisis de Negocios para Ciencia de Datos | Platzi | 10 h | [link](https://platzi.com/p/flprietot/curso/2069-negocios-data-science/diploma/detalle/) |
+| 2025-03 | Curso de Excel Avanzado con Macros | Platzi | 8 h | [link](https://platzi.com/p/flprietot/curso/4294-excel-avanzado-macros/diploma/detalle/) |
+| 2025-03 | Curso de Excel Avanzado para Análisis de Datos | Platzi | 14 h |[link](https://platzi.com/p/flprietot/curso/4822-excel-avanzado-datos/diploma/detalle/) |
 | 2025-01 | [Digital Transformation](https://www.santanderopenacademy.com/en/courses/digital-transformation.html) | [Open Academy](https://www.santanderopenacademy.com)  | 8 h| [link](https://drive.google.com/file/d/1Kl_EJjHQEGtgmAAQY_js1qqUKU6p9LiW) |
 | 2024-12 | Generative AI: Introduction and Applications | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 6 h | [link](https://coursera.org/share/ca05b51229591aef5a08bfd1f9646dd1) |
 | 2024-11 | Generative AI: Prompt Engineering Basics | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 7 h | [link](https://coursera.org/share/9310199e6740004108d3d30b3ac2ec6c) |
