@@ -64,7 +64,9 @@ Here are some ideas to get you started:
 | 2025-11 | Deep Learning with PyTorch | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 h | [link](https://coursera.org/share/25884a1aaa9d9df1a53b40df95ccdfd0) |
 | 2025-10 | Introduction to Neural Networks and PyTorch | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 h | [link](https://coursera.org/share/174f0fe70a3ea8284da7f8287e88b378) |
 | 2025-07 | Deep Learning with Keras and Tensorflow | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 23 h | [link](https://coursera.org/share/1dd5d8d597633da32bfbade82cece85a) | 
-| 2025-06 | Introduction to Deep Learning & Neural Networks with Keras | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 10 h | [link](https://coursera.org/share/87304729e92d4832ee1cb695cddc86bf) | 
+| 2025-06 | Introduction to Deep Learning & Neural Networks with Keras | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 10 h | [link](https://coursera.org/share/87304729e92d4832ee1cb695cddc86bf) |
+| 2025-04 | Metodología de formulación de un Plan Estadístico | [DANE](https://www.dane.gov.co/) - [SEN](https://www.sen.gov.co/servicios/aula-digital) | 40 h | [link](https://drive.google.com/file/d/1z10uhnM5jAUQghv4MkDF3Y0vGL1A-kWr/view?usp=drive_link) |
+| 2025-04 | Proceso Estadístico | [DANE](https://www.dane.gov.co/) - [SEN](https://www.sen.gov.co/servicios/aula-digital) | 40 h | [link](https://drive.google.com/file/d/1PNTCLWaGEYWlu21ZzMue81n-6wyboVV9/view?usp=drive_link) |    
 | 2025-03 | Curso de Introducción a DevOps | Platzi | 10 h | [link](https://platzi.com/p/flprietot/curso/4558-introduccion-devops/diploma/detalle/) |
 | 2025-03 | Análisis de Negocios para Ciencia de Datos | Platzi | 10 h | [link](https://platzi.com/p/flprietot/curso/2069-negocios-data-science/diploma/detalle/) |
 | 2025-03 | Curso de Excel Avanzado con Macros | Platzi | 8 h | [link](https://platzi.com/p/flprietot/curso/4294-excel-avanzado-macros/diploma/detalle/) |
@@ -95,8 +97,8 @@ Here are some ideas to get you started:
 | 2024-08 | Data Visualization and Dashboards with Excel and Cognos  | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 15 h | [link](https://coursera.org/share/4694c3a9cef535a64593a3edb56c3d04) | 
 | 2024-08 | Excel Basics for Data Analysis  | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 12 h | [link](https://coursera.org/share/d230e509c863115cb90b221a7e590dfe) |
 | 2024-08 | Introduction to Data Analytics | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 10 h |[link](https://www.coursera.org/account/accomplishments/verify/CZDA9CP7H65B) |
-| 2024-08 | Diseño y construcción de indicadores | DANE | 30 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsuV-SnqnoXEjF0pzEw?e=fQEjmF)|
-| 2024-08 | Condiciones para la evaluaciòn de la calidad estadìstica | DANE | 30 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsOhHmvWKFXPdON5uLg?e=MGgdm2)|
+| 2024-08 | Diseño y construcción de indicadores | [DANE](https://www.dane.gov.co/) -[SEN](https://www.sen.gov.co/servicios/aula-digital) | 30 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsuV-SnqnoXEjF0pzEw?e=fQEjmF)|
+| 2024-08 | Condiciones para la evaluaciòn de la calidad estadìstica | [DANE](https://www.dane.gov.co/) -[SEN](https://www.sen.gov.co/servicios/aula-digital) | 30 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsOhHmvWKFXPdON5uLg?e=MGgdm2)|
 | 2024-06 | Machine Learning with Python | IBM | 3 h | [link](https://courses.cognitiveclass.ai/certificates/d0506e5db3604e00901e7cba6b492e0b) |
 | 2024-06 | Data Science 101 | [IBM](https://www.credly.com/organizations/ibm/badges) | 3 h | [link](https://courses.cognitiveclass.ai/certificates/980b0a770a894c778dca7abe79b34b4c) |
 | 2024-05 | Curso para comsumir APIs con Python | [Códigofacilito](https://codigofacilito.com/cursos/python-apis)|2h|[link](https://codigofacilito.com/certificates/8d12ca9c-a555-4d3d-9bc2-fa9b8a787876) |
