@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 # Specializations List
 | Date |  Certification | Institution | Link |
 | --- |  --- | --- | --- |
+| 2025-11-29 | IBM AI Engineering |[IBM](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/fa1067131286734eb6c88694ea6ca117) |
 | 2024-12-11 | Generative AI for Data Scientist | [IBM](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/2edf80b212c68ad6093d74d3e5a169c6) |
 | 2024-12-11 | Generative AI for Data Scientist | [IBM](https://www.coursera.org/partners/ibm-skills-network) | [link](https://coursera.org/share/995fe5819b46d2951597f7cead475fcc) |
 | 2024-11-25 | Machine Learning | [DeepLearning.AI](https://www.coursera.org/partners/deeplearning-ai)-[Stanford University](https://www.coursera.org/partners/stanford) | [link](https://coursera.org/share/53456bf31db4920a1e105bf422f14153) | 
@@ -52,6 +53,18 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+| 2025-11 | Project: Generative AI Applications with RAG and LangChain | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 9 h |[link](https://coursera.org/share/fa1067131286734eb6c88694ea6ca117) |
+| 2025-11 | Fundamentals of AI Agents Using RAG and LangChain | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 7 h | [link](https://coursera.org/share/7d5eef74f3c19697517f89b5d553724f) |
+| 2025-11 | Generative AI Advance Fine-Tuning for LLMs | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 9 h | [link](https://coursera.org/share/0187de7dedb888d4685e0f6012907b3e) |
+| 2025-11 | Generative AI Engineering and Fine-Tuning Transformers | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 8 h | [link](https://coursera.org/share/7d8634e31cbeb5a6f4cc7c370e1a8d76) |
+| 2025-11 | Generative AI Language Modeling with Transformers | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 9 h | [link](https://coursera.org/share/2d6dcf9826e2abd4b5ec402fab81bb9f) |
+| 2025-11 | Gen AI Foundational Models for NLP & Language Understanding | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 9 h | [link](https://coursera.org/share/ed564ebf3f7b46996860bba3990b93e8) |
+| 2025-11 | Generative AI and LLMs: Architecture and Data Preparation | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 5 h | [link](https://coursera.org/share/8b96a0152fca0f184fc0e1ef32d4c448) | 
+| 2025-11 | AI Capstone Project with Deep Learning | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 14 h | [link](https://coursera.org/share/e53f50522067fe39e5dce570a42f9797) |
+| 2025-11 | Deep Learning with PyTorch | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 h | [link](https://coursera.org/share/25884a1aaa9d9df1a53b40df95ccdfd0) |
+| 2025-10 | Introduction to Neural Networks and PyTorch | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 h | [link](https://coursera.org/share/174f0fe70a3ea8284da7f8287e88b378) |
+| 2025-07 | Deep Learning with Keras and Tensorflow | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 23 h | [link](https://coursera.org/share/1dd5d8d597633da32bfbade82cece85a) | 
+| 2025-06 | Introduction to Deep Learning & Neural Networks with Keras | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 10 h | https://coursera.org/share/87304729e92d4832ee1cb695cddc86bf | 
 | 2025-03 | Curso de Introducción a DevOps | Platzi | 10 h | [link](https://platzi.com/p/flprietot/curso/4558-introduccion-devops/diploma/detalle/) |
 | 2025-03 | Análisis de Negocios para Ciencia de Datos | Platzi | 10 h | [link](https://platzi.com/p/flprietot/curso/2069-negocios-data-science/diploma/detalle/) |
 | 2025-03 | Curso de Excel Avanzado con Macros | Platzi | 8 h | [link](https://platzi.com/p/flprietot/curso/4294-excel-avanzado-macros/diploma/detalle/) |
