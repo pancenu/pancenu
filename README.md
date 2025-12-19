@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 | 2025-11 | Deep Learning with PyTorch | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 h | [link](https://coursera.org/share/25884a1aaa9d9df1a53b40df95ccdfd0) |
 | 2025-10 | Introduction to Neural Networks and PyTorch | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 h | [link](https://coursera.org/share/174f0fe70a3ea8284da7f8287e88b378) |
 | 2025-07 | Deep Learning with Keras and Tensorflow | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 23 h | [link](https://coursera.org/share/1dd5d8d597633da32bfbade82cece85a) | 
-| 2025-06 | Introduction to Deep Learning & Neural Networks with Keras | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 10 h | https://coursera.org/share/87304729e92d4832ee1cb695cddc86bf | 
+| 2025-06 | Introduction to Deep Learning & Neural Networks with Keras | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 10 h | [link](https://coursera.org/share/87304729e92d4832ee1cb695cddc86bf) | 
 | 2025-03 | Curso de Introducción a DevOps | Platzi | 10 h | [link](https://platzi.com/p/flprietot/curso/4558-introduccion-devops/diploma/detalle/) |
 | 2025-03 | Análisis de Negocios para Ciencia de Datos | Platzi | 10 h | [link](https://platzi.com/p/flprietot/curso/2069-negocios-data-science/diploma/detalle/) |
 | 2025-03 | Curso de Excel Avanzado con Macros | Platzi | 8 h | [link](https://platzi.com/p/flprietot/curso/4294-excel-avanzado-macros/diploma/detalle/) |
