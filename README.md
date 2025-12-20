@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 | 2025-10 | Introduction to Neural Networks and PyTorch | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 h | [link](https://coursera.org/share/174f0fe70a3ea8284da7f8287e88b378) |
 | 2025-07 | Deep Learning with Keras and Tensorflow | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 23 h | [link](https://coursera.org/share/1dd5d8d597633da32bfbade82cece85a) | 
 | 2025-06 | Introduction to Deep Learning & Neural Networks with Keras | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 10 h | [link](https://coursera.org/share/87304729e92d4832ee1cb695cddc86bf) |
+| 2025-05 | Diplomado Modelo Integrado de Planeación y Gestión (MIPG) | [ESAP](https://www.esap.edu.co/) | 80 h | [link](https://drive.google.com/file/d/1sO2WuqStV3YdOqK4v7Fq6wEbAs1pOk08/view?usp=drive_link) |
 | 2025-04 | Metodología de formulación de un Plan Estadístico | [DANE](https://www.dane.gov.co/) - [SEN](https://www.sen.gov.co/servicios/aula-digital) | 40 h | [link](https://drive.google.com/file/d/1z10uhnM5jAUQghv4MkDF3Y0vGL1A-kWr/view?usp=drive_link) |
 | 2025-04 | Proceso Estadístico | [DANE](https://www.dane.gov.co/) - [SEN](https://www.sen.gov.co/servicios/aula-digital) | 40 h | [link](https://drive.google.com/file/d/1PNTCLWaGEYWlu21ZzMue81n-6wyboVV9/view?usp=drive_link) |    
 | 2025-03 | Curso de Introducción a DevOps | Platzi | 10 h | [link](https://platzi.com/p/flprietot/curso/4558-introduccion-devops/diploma/detalle/) |
