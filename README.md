@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 | 2024-05 | Proceso Sancionatorio Ambiental | [ANLA](https://aulavirtual.anla.gov.co/ ) | |[link](https://1drv.ms/b/s!ArEqZcz51nTmsL8E02--t8sAv4ybMQ?e=jnZ9Nd) |
 | 2024-05 | Datos Abiertos | [Universidad Corporativa MinTIC](https://gestiondelconocimiento.mintic.gov.co/714/w3-propertyvalue-85192.html) | 48 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsuV9VqHp_WbvEfRbuQ?e=TPambx) |
 | 2024-03 | Big Data | [Santander Open Academy](https://app.santanderopenacademy.com/) | 20 h | [link](https://1drv.ms/b/s!ArEqZcz51nTmsMJpNq9MX7rPFhF9Zg?e=nzV2c2) |
-| 2024-01 | [The AI Ladder: A Framework for Deploying AI in your Enterprise] (https://learn.ibm.com/course/view.php?id=8496) | [IBM](https://learn.ibm.com/) | 3 h | |
+| 2024-01 | [The AI Ladder: A Framework for Deploying AI in your Enterprise](https://learn.ibm.com/course/view.php?id=8496) | [IBM](https://learn.ibm.com/) | 3 h | [link](https://drive.google.com/file/d/1sPJeOZWNY1pzj5xo6q_w4db2cKakpGbd/view?usp=drive_link)|
 | 2024-02 | Data Visualization with Python |  [IBM](https://www.credly.com/organizations/ibm/badges) | | [link](https://courses.cognitiveclass.ai/certificates/c5fe23712f0e4d89bd6dc46ac0cab099) |
 | 2023-11 | Data Analysis with Python | [IBM](https://www.credly.com/organizations/ibm/badges) | | [link](https://courses.cognitiveclass.ai/certificates/6b52abd6b80a485da7170c2c56ad4b65) |
 | 2023-11 | Inteligencia Artificial (Artificial Intelligence) | [Universidad Distrital](https://www.udistrital.edu.co/) | 50 h | [link](https://drive.google.com/file/d/15h5kNPfEqQjhHEzhNv2pMUhdVxKrNH3M/view?usp=drive_link) |
