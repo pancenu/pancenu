@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
-| 2026-03 | Inteligencia Artificial Aplicada - 2026 | Universidad Corporativa MINTIC | 40 h | [link](https://drive.google.com/file/d/1-0oRaJJZjGKR_setryLEKkIdn8Y3IO6d/) |
+| 2026-03 | Inteligencia Artificial Aplicada - 2026 | Universidad Corporativa MINTIC | 48 h | [link](https://drive.google.com/file/d/1-0oRaJJZjGKR_setryLEKkIdn8Y3IO6d/) |
 | 2025-11 | Project: Generative AI Applications with RAG and LangChain | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 9 h |[link](https://coursera.org/share/fa1067131286734eb6c88694ea6ca117) |
 | 2025-11 | Fundamentals of AI Agents Using RAG and LangChain | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 7 h | [link](https://coursera.org/share/7d5eef74f3c19697517f89b5d553724f) |
 | 2025-11 | Generative AI Advance Fine-Tuning for LLMs | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 9 h | [link](https://coursera.org/share/0187de7dedb888d4685e0f6012907b3e) |
