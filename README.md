@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+| 2026-07 | [Global Consumer Intelligence Course](https://weblab.t.u-tokyo.ac.jp/en/lecture/gci/) | [Matsuo-Iwasana Lab UTokio](https://weblab.t.u-tokyo.ac.jp/en/) | >22 h | [link]() | 
+| 2026-07 | Norma técnica de la calidad del proceso estadístico NTC PE 1000:2020 | [DANE](https://www.dane.gov.co/) - [SEN](https://www.sen.gov.co/servicios/aula-digital) | 40 h | [link]() | 
+| 2026-07 | Política de Gestión de la Información Estadística | [DANE](https://www.dane.gov.co/) - [SEN](https://www.sen.gov.co/servicios/aula-digital) | 40 h | [link]() | 
 | 2026-03 | Inteligencia Artificial Aplicada - 2026 | Universidad Corporativa MINTIC | 48 h | [link](https://drive.google.com/file/d/1-0oRaJJZjGKR_setryLEKkIdn8Y3IO6d/) |
 | 2025-11 | Project: Generative AI Applications with RAG and LangChain | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 9 h |[link](https://coursera.org/share/635a680b83cc7b78dd42d0bc816f8c93) |
 | 2025-11 | Fundamentals of AI Agents Using RAG and LangChain | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 7 h | [link](https://coursera.org/share/7d5eef74f3c19697517f89b5d553724f) |
