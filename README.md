@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 | 2025-11 | AI Capstone Project with Deep Learning | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 14 h | [link](https://coursera.org/share/e53f50522067fe39e5dce570a42f9797) |
 | 2025-11 | Deep Learning with PyTorch | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 h | [link](https://coursera.org/share/25884a1aaa9d9df1a53b40df95ccdfd0) |
 | 2025-10 | Introduction to Neural Networks and PyTorch | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 18 h | [link](https://coursera.org/share/174f0fe70a3ea8284da7f8287e88b378) |
+| 2025-09 | Green Digital Certificate Program | [INCO](https://www.academy.inco-group.co/) | 25 h | [link](https://drive.google.com/file/d/1J85KckHzqtOPOZ94NYQdZ7Z0Di_h2w85) |
 | 2025-07 | Deep Learning with Keras and Tensorflow | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 23 h | [link](https://coursera.org/share/1dd5d8d597633da32bfbade82cece85a) | 
 | 2025-06 | Introduction to Deep Learning & Neural Networks with Keras | [IBM](https://www.coursera.org/partners/ibm-skills-network) | 10 h | [link](https://coursera.org/share/87304729e92d4832ee1cb695cddc86bf) |
 | 2025-06 | Designing and Implementing a Microsoft Azure AI Solution | [Microsoft Learn](https://learn.microsoft.com/) | 28 h | [link](https://drive.google.com/file/d/1tuaUPSaYca7O_gVPfNtyY1uGqBOOU7d_/view?usp=drive_link) |
