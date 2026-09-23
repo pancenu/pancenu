@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 | Date | Course | Institution | Time | Certificate |
 | ----------- | ----------- | ----------- | -----------| ----------- |
+| 2026-09 | Fundamentos de AWS: Cloud, Serverless y Operación | [commit](https://www.commitacademy.io/app/verify-certificate/cert_YHKa7mIp1T) | ~10 h |[link](https://drive.google.com/file/d/1ueXtabseMtC39AKH1kP879JFRsZtvHbg)|
 | 2026-07 | [Global Consumer Intelligence Course](https://weblab.t.u-tokyo.ac.jp/en/lecture/gci/) | [Matsuo-Iwasana Lab UTokio](https://weblab.t.u-tokyo.ac.jp/en/) | >22 h | [link](https://drive.google.com/file/d/1PZBXvk_R9gahTx1B8iZlmToP4UOYMz8h/) | 
 | 2026-07 | Norma técnica de la calidad del proceso estadístico NTC PE 1000:2020 | [DANE](https://www.dane.gov.co/) - [SEN](https://www.sen.gov.co/servicios/aula-digital) | 40 h | [link](https://drive.google.com/file/d/1FTQVf3Ys77g2ODF_8sF_zwA8v3scBR4z/view?usp=sharing) | 
 | 2026-07 | Política de Gestión de la Información Estadística | [DANE](https://www.dane.gov.co/) - [SEN](https://www.sen.gov.co/servicios/aula-digital) | 40 h | [link](https://drive.google.com/file/d/15TmUpcFEOQIDcmoRayTKN7sunCpssRLy/view?usp=sharing) | 
